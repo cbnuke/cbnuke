@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![CBNUKE's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbnuke)](https://github.com/cbnuke)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbnuke&layout=compact)](https://github.com/cbnuke)
+
+
 <!--
 **cbnuke/cbnuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
